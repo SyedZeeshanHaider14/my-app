@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kazmi9266/my-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/kazmi9266/my-app/static/js/main.5bc3f5dd.chunk.js",
+    "main.js.map": "/kazmi9266/my-app/static/js/main.5bc3f5dd.chunk.js.map",
+    "runtime-main.js": "/kazmi9266/my-app/static/js/runtime-main.e398fef9.js",
+    "runtime-main.js.map": "/kazmi9266/my-app/static/js/runtime-main.e398fef9.js.map",
+    "static/js/2.2f5ef2c2.chunk.js": "/kazmi9266/my-app/static/js/2.2f5ef2c2.chunk.js",
+    "static/js/2.2f5ef2c2.chunk.js.map": "/kazmi9266/my-app/static/js/2.2f5ef2c2.chunk.js.map",
+    "index.html": "/kazmi9266/my-app/index.html",
+    "precache-manifest.15cf9222ed2c49e33bb6766583260890.js": "/kazmi9266/my-app/precache-manifest.15cf9222ed2c49e33bb6766583260890.js",
+    "service-worker.js": "/kazmi9266/my-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/kazmi9266/my-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2f5ef2c2.chunk.js.LICENSE.txt": "/kazmi9266/my-app/static/js/2.2f5ef2c2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kazmi9266/my-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e398fef9.js",
+    "static/js/2.2f5ef2c2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5bc3f5dd.chunk.js"
+  ]
+}
